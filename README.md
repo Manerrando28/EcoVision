@@ -37,36 +37,36 @@ O **EcoVision** é uma plataforma de backend desenvolvida em **C# .NET 8** para 
 
 ## 📸 Evidências de Funcionamento
 
+Abaixo estão exibidas as capturas de tela que comprovam a compilação, arquitetura, testes e execução dos serviços:
+
 ### 1. Inicialização da Aplicação
 Logs de startup do servidor Kestrel e confirmação do banco de dados em memória inicializado.
 
-<img src="https://github.com/user-attachments/assets/984b468a-92a8-4c6e-82b5-ef9a6aef603a" width="100%" alt="01 Execucao Console" />
+![](01_execucao_console.png.png)
 
 ---
 
 ### 2. Arquitetura da Solução
 Organização das camadas de software e estrutura de projetos no Visual Studio.
 
-<img src="https://github.com/user-attachments/assets/49d5206d-53af-49ee-8aa6-8d05eece1e3d" width="100%" alt="02 Estrutura Solucao" />
+![](02_estrutura_solucao.png.png)
 
 ---
 
 ### 3. Validação dos Endpoints (Swagger UI)
 
 **Consulta de Pontos em Risco (GET 200)**
-<img src="https://github.com/user-attachments/assets/0da7b294-cd06-437d-bbcb-7d30aa73cfe6" width="100%" alt="Swagger GET 200" />
+![](04_swagger_get.jpg.png)
 
 **Cadastro de Ponto (POST 201)**
-<img src="https://github.com/user-attachments/assets/ed60fbb2-1566-44c8-aa90-53823d673654" width="100%" alt="Swagger POST 201" />
+![](03_swagger_post.jpg.png)
 
 ---
 
 ### 4. Testes Unitários Automatizados (xUnit)
 Execução da suíte de testes no Test Explorer exibindo 100% dos testes aprovados (2/2).
 
-<img src="https://github.com/user-attachments/assets/b5c01fbb-7282-4f64-aa20-0aa5963ae405" width="100%" alt="05 Testes xUnit" />
-
----
+![](05_testes_xunit.jpg.png)
 
 ## 📜 Registro de IA (Prompts)
 
