@@ -92,24 +92,26 @@ Abaixo estão exibidas as capturas de tela que comprovam a compilação, arquite
 
 1. Inicialização da Aplicação
 Logs de startup do servidor Kestrel e confirmação do banco de dados em memória inicializado.
-<img width="1917" height="1017" alt="01_execucao_console png" src="https://github.com/user-attachments/assets/8748762f-7ca2-4378-bc58-6b6676d42977" />
+<img width="1917" height="1017" alt="01_execucao_console png" src="https://github.com/user-attachments/assets/fbd07468-b96e-49c3-a0a0-0d91c7d8f670" />
+
 
 
 2. Arquitetura da Solução
 Organização das camadas de software e estrutura de projetos no Visual Studio.
-<img width="587" height="902" alt="02_estrutura_solucao png" src="https://github.com/user-attachments/assets/dbe43f12-0e2f-4edd-9dde-7042653df398" />
+<img width="587" height="902" alt="02_estrutura_solucao png" src="https://github.com/user-attachments/assets/e70229eb-b24d-45a6-af2d-dde7fd48f036" />
+
 
 
 3. Validação dos Endpoints (Swagger UI)
 Testes reais das rotas HTTP com cadastro de ponto de alagamento e filtragem de locais em risco.
-<img width="1747" height="909" alt="03_swagger_post jpg" src="https://github.com/user-attachments/assets/e90a0f16-bec3-4d72-8e18-686b78ea13d5" />
-<img width="1748" height="915" alt="04_swagger_get jpg" src="https://github.com/user-attachments/assets/a313ec52-6403-454f-a7e6-3db0e9da676a" />
+<img width="1748" height="915" alt="04_swagger_get jpg" src="https://github.com/user-attachments/assets/0da7b294-cd06-437d-bbcb-7d30aa73cfe6" />
+<img width="1747" height="909" alt="03_swagger_post jpg" src="https://github.com/user-attachments/assets/ed60fbb2-1566-44c8-aa90-53823d673654" />
 
 
 Cadastro de Ponto (POST 201)	Consulta de Pontos em Risco (GET 200)
 4. Testes Unitários Automatizados (xUnit)
 Execução da suíte de testes no Test Explorer exibindo 100% dos testes aprovados (2/2).
-<img width="1917" height="990" alt="05_testes_xunit jpg" src="https://github.com/user-attachments/assets/18b64150-cba9-4130-ae3c-40e2129fde9c" />
+<img width="1917" height="990" alt="05_testes_xunit jpg" src="https://github.com/user-attachments/assets/b5c01fbb-7282-4f64-aa20-0aa5963ae405" />
 
 
 📜 Registro de IA (Prompts)
