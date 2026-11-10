@@ -121,7 +121,11 @@ Em total conformidade com as diretrizes acadêmicas da FIAP, o arquivo prompts.m
 
 ## 🙏 Agradecimentos e Considerações Finais
 
-###Agradecemos sinceramente ao corpo docente da FIAP, com destaque para os professores da disciplina de C# Software Development, pela excelência no ensino e orientação. A jornada da Global Solution permitiu consolidar na prática padrões fundamentais de desenvolvimento de software enterprise em .NET.
+### Agradecemos sinceramente ao corpo docente da FIAP, com destaque para os professores da disciplina de C# Software Development, pela excelência no ensino e orientação. A jornada da Global Solution permitiu consolidar na prática padrões fundamentais de desenvolvimento de software enterprise em .NET.
+
+---
+
+*EcoVision © 2026 - Desenvolvido para a Global Solution FIAP.*
 
 ---
 
