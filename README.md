@@ -92,7 +92,8 @@ Abaixo estão exibidas as capturas de tela que comprovam a compilação, arquite
 
 1. Inicialização da Aplicação
 Logs de startup do servidor Kestrel e confirmação do banco de dados em memória inicializado.
-<img width="1917" height="1017" alt="01_execucao_console png" src="https://github.com/user-attachments/assets/79419b8a-0392-4650-bafd-a2ad480d9d62" />
+<img src="https://github.com/Manerrando28/EcoVision/blob/main/01_execucao_console.png.png?raw=true" alt="01 Execucao Console" width="100%" />
+
 
 
 
