@@ -1,0 +1,6 @@
+@EcoVision.Tests_HostAddress = http://localhost:5185
+
+GET {{EcoVision.Tests_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

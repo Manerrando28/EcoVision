@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EcoVision.API/EcoVision.API.csproj" />
+  <Project Path="EcoVision.Tests/EcoVision.Tests.csproj" />
+</Solution>
