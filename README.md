@@ -127,6 +127,5 @@ Em total conformidade com as diretrizes acadêmicas da FIAP, o arquivo prompts.m
 
 *EcoVision © 2026 - Desenvolvido para a Global Solution FIAP.*
 
----
 
 *EcoVision © 2026 - Desenvolvido para a Global Solution FIAP.*
