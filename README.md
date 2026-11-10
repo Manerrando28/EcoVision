@@ -92,13 +92,15 @@ Abaixo estão exibidas as capturas de tela que comprovam a compilação, arquite
 
 1. Inicialização da Aplicação
 Logs de startup do servidor Kestrel e confirmação do banco de dados em memória inicializado.
-<img width="1917" height="1017" alt="01_execucao_console png" src="https://github.com/user-attachments/assets/fbd07468-b96e-49c3-a0a0-0d91c7d8f670" />
+<img width="1917" height="1017" alt="01_execucao_console png" src="https://github.com/user-attachments/assets/984b468a-92a4-46f0-9c78-9f34c9782d63" />
+
 
 
 
 2. Arquitetura da Solução
 Organização das camadas de software e estrutura de projetos no Visual Studio.
-<img width="587" height="902" alt="02_estrutura_solucao png" src="https://github.com/user-attachments/assets/e70229eb-b24d-45a6-af2d-dde7fd48f036" />
+<img width="587" height="902" alt="02_estrutura_solucao png" src="https://github.com/user-attachments/assets/49d5206d-53af-4c97-9875-30d4ab4dddf2" />
+
 
 
 
